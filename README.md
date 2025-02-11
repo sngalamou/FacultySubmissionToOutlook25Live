@@ -99,6 +99,7 @@ It’s been incredibly rewarding to see how leveraging automation has simplified
 This project is not licensed for public use. Please do not use or adapt the code.
 
 ## Acknowledgments
+- **Supervisor:** I would like to thank my supervisor, Paul Schroeder, for his support, guidance, and the autonomy he granted me, which were essential to the successful completion of this project.
 - **Joliet Junior College** for providing a real-world environment to develop and test the automation script.
 - **The Python Community** for numerous libraries (`pandas`, `pyautogui`, `openpyxl`) that make development faster and easier.
 - **You** for checking out this project!
