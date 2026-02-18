@@ -1,5 +1,4 @@
 # FacultySubmissionToOutlook25Live
-```markdown
 
 ## Overview
 
