@@ -109,4 +109,5 @@ This project is not licensed for public use. Please do not use or adapt the code
 [Github Repo](https://github.com/sngalamou/FacultySubmissionToOutlook25Live)
 
 **Follow me on LinkedIn:**  
-[LinkedIn Profile]([https://www.linkedin.com/in/sngalamou/](https://www.linkedin.com/in/simeon-ngalamou-11979a152/))
+[LinkedIn Profile](https://www.linkedin.com/in/simeon-ngalamou-11979a152/)
+
